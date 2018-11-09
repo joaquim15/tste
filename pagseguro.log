@@ -1,0 +1,30 @@
+09/11/2018 15:39:39 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 4692907d-35b9-4d3c-86c7-885735833974
+09/11/2018 15:39:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=joaquim.moura@interaconsultoria.com.br&token=DA30A072D2F845228E75F0BCC0A12518&correlationId=4692907d-35b9-4d3c-86c7-885735833974]
+09/11/2018 15:39:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+09/11/2018 15:39:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+09/11/2018 15:39:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+09/11/2018 15:39:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+09/11/2018 15:44:33 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 1cba2e1d-885c-4cb9-bb34-f578432ef0ea
+09/11/2018 15:44:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=joaquim.moura@interaconsultoria.com.br&token=DA30A072D2F845228E75F0BCC0A12518&correlationId=1cba2e1d-885c-4cb9-bb34-f578432ef0ea]
+09/11/2018 15:44:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+09/11/2018 15:44:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+09/11/2018 15:44:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+09/11/2018 15:44:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+09/11/2018 15:46:30 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: fd74ed05-07df-4c53-9416-143152b866eb
+09/11/2018 15:46:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=joaquim.moura@interaconsultoria.com.br&token=DA30A072D2F845228E75F0BCC0A12518&correlationId=fd74ed05-07df-4c53-9416-143152b866eb]
+09/11/2018 15:46:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+09/11/2018 15:46:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+09/11/2018 15:46:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+09/11/2018 15:46:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+09/11/2018 15:48:23 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: f2d653fb-cbcf-4dd6-a4fa-af2897c42dc1
+09/11/2018 15:48:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=joaquim.moura@interaconsultoria.com.br&token=DA30A072D2F845228E75F0BCC0A12518&correlationId=f2d653fb-cbcf-4dd6-a4fa-af2897c42dc1]
+09/11/2018 15:48:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+09/11/2018 15:48:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+09/11/2018 15:48:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+09/11/2018 15:48:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+09/11/2018 15:58:32 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 02473851-9629-4a47-9aed-088ec5e97051
+09/11/2018 15:58:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=joaquim.moura@interaconsultoria.com.br&token=DA30A072D2F845228E75F0BCC0A12518&correlationId=02473851-9629-4a47-9aed-088ec5e97051]
+09/11/2018 15:58:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+09/11/2018 15:58:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+09/11/2018 15:58:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+09/11/2018 15:58:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
